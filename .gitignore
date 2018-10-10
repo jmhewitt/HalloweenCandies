@@ -2,5 +2,7 @@
 .Rhistory
 .RData
 .Ruserdata
-candy-data.csv
 *.Rproj
+# don't share the exciting parts of the data!
+candy-data.csv
+answers.csv
