@@ -20,6 +20,6 @@ test.answers = test.predictors$winpercent
 test.predictors$winpercent = NULL
 
 # save datasets
-write.csv(training.data, file = 'train.csv', quote = FALSE)
-write.csv(test.predictors, file = 'test.csv', quote = FALSE)
-write.csv(test.answers, file = 'answers.csv', quote = FALSE)
+write.csv(training.data, file = 'train.csv', quote = FALSE, row.names = FALSE)
+write.csv(test.predictors, file = 'test.csv', quote = FALSE, row.names = FALSE)
+write.csv(test.answers, file = 'answers.csv', quote = FALSE, row.names = FALSE)
