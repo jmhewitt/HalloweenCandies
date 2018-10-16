@@ -22,6 +22,7 @@ ggplot(data = training.data, aes(x = sugarpercent,
 
 ### Clustering Heat Map
 library(dplyr)
+library(RColorBrewer)
 for(i in 2:10){
   training.data[,i+12]<-ifelse(training.data[,i]==1,'yes','no')
 }
