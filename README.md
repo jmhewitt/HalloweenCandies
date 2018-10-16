@@ -3,7 +3,11 @@ Overview
 
 It's fall, so let's get festive AND creative at this meeting. Let's take a lighthearted look at some data about peoples' favorite Halloween candies. We would like you to train a model that can predict which candies people will prefer. This repository contains training data as well as predictor variables for a test dataset. The repository does not contain the answers. The best predictions (as measured by MSE) will receive simple prizes. The best visualizations of the training data will also receive simple prizes.
 
-We have also provided some sample R scripts you can use to get started. - `load_data.R` will load data - `visualizations.R` shows some interesting visualizatons you can think about, to get started. - `sample predictions.R` shows an example of how we would like you to build predictions.
+We have also provided some sample R scripts you can use to get started.
+
+-   `load_data.R` will load data
+-   `visualizations.R` shows some interesting visualizatons you can think about, to get started.
+-   `sample predictions.R` shows an example of how we would like you to build predictions.
 
 Good luck and have fun!!
 

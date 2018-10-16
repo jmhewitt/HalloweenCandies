@@ -15,6 +15,7 @@ predictions (as measured by MSE) will receive simple prizes.  The best
 visualizations of the training data will also receive simple prizes.
 
 We have also provided some sample R scripts you can use to get started.
+
 - ```load_data.R``` will load data
 - ```visualizations.R``` shows some interesting visualizatons you can think 
   about, to get started.
