@@ -3,7 +3,7 @@ Overview
 
 It's fall, so let's get festive AND creative at this meeting. Let's take a lighthearted look at some data about peoples' favorite Halloween candies. We would like you to train a model that can predict which candies people will prefer. This repository contains training data as well as predictor variables for a test dataset. The repository does not contain the answers. The best predictions (as measured by MSE) will receive simple prizes. The best visualizations of the training data will also receive simple prizes.
 
-We have also provided some sample R scripts you can use to get started.
+We have also provided some sample R scripts you can use to get started. All of the scripts are designed to easily run on your computer if you download this repository as a [zip file](https://github.com/jmhewitt/HalloweenCandies/archive/master.zip). Extract the contents of the file, then open the directory as an RStudio project file by double-clicking `HalloweenCandies.Rproj`.
 
 -   `load_data.R` will load data
 -   `visualizations.R` shows some interesting visualizatons you can think about, to get started.
